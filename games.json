@@ -1,0 +1,13 @@
+{
+  "games": [
+    {
+      "title": "Example Game",
+      "title_id": "CUSA00000",
+      "version": "1.00",
+      "region": "US",
+      "genre": "Action",
+      "size": "10 GB",
+      "pkg_url": "https://example.invalid/packages/example-game.pkg"
+    }
+  ]
+}
