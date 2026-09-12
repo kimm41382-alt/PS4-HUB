@@ -1,0 +1,12 @@
+{
+  "name": "ps4-game-hub",
+  "version": "1.0.0",
+  "private": true,
+  "description": "PS4 WebKit-friendly game catalogue and Remote Package Installer client",
+  "scripts": {
+    "test": "node --test tests/*.test.js",
+    "lint": "node scripts/lint.js",
+    "build": "node scripts/build.js",
+    "validate": "node scripts/validate.js"
+  }
+}

@@ -1,0 +1,1 @@
+(function (root, factory) { var api = factory(); if (typeof module === 'object' && module.exports) { module.exports = api; } root.PS4HubRpiErrors = api; }(this, function () { 'use strict'; function make(code, message, detail) { return { code: code, message: message, detail: detail || '' }; } return { make: make }; }));
